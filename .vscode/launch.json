@@ -4,14 +4,5 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-
-        {
-            "name": "Reconciliation test",
-            "type": "python",
-            "request": "launch",
-            "program": "${workspaceFolder}/env/bin/pytest",
-            "args": ["-v", "-s", "-x", "bb84/cascade/tests/test_reconciliation.py"] 
-        },        
     ]
 }
