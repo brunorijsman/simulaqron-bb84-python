@@ -41,7 +41,7 @@ pockets==0.9.1
 py==1.8.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyLin==0.2.7
 pylint==2.4.3
