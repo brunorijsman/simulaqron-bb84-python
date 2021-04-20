@@ -38,7 +38,7 @@ packaging==19.2
 pbr==5.4.4
 pluggy==0.13.1
 pockets==0.9.1
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
 Pygments==2.5.2
