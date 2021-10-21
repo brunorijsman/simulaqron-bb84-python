@@ -3,7 +3,7 @@ anytree==2.7.2
 astroid==2.3.3
 attrs==19.3.0
 Automat==0.8.0
-Babel==2.7.0
+Babel==2.9.1
 bitstring==3.1.6
 certifi==2019.11.28
 chardet==3.0.4
